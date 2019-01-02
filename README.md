@@ -1,2 +1,1 @@
-# python_sample_code
-python_sample_code
+# This is a comment
