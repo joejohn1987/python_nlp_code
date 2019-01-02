@@ -1,1 +1,2 @@
-# This is a comment
+# Python sample code
+It contains some basic codes for references.
